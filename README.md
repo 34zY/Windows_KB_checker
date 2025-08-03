@@ -11,7 +11,9 @@ Ensure you have the necessary permissions to run this script.
 
 # Usage: 
 
-```.\windows_KB_checker.ps1```
+```powershell
+.\windows_KB_checker.ps1
+```
 
 # Disclaimer
 
