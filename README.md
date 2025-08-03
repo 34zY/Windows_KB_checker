@@ -9,7 +9,7 @@ Designed to be user-friendly and informative, it helps users understand their sy
 
 Ensure you have the necessary permissions to run this script.
 
-# Usage: 
+# Usage
 
 ```powershell
 .\windows_KB_checker.ps1
