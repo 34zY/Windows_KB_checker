@@ -2,7 +2,7 @@
 
 Run this script in PowerShell to check for missing Windows Kernel security patches
 
-Description: This script checks for missing Windows Kernel security patches. 
+This script checks for missing Windows Kernel security patches. 
 It lists known vulnerabilities, their corresponding KBs, CVEs, and public exploit URLs. 
 The output indicates whether each KB is installed or missing. If a KB is missing, it provides a warning and a link to the public exploit URL via SecWiki/windows-kernel-exploits github page.
 Designed to be user-friendly and informative, it helps users understand their system's security posture regarding kernel vulnerabilities.
